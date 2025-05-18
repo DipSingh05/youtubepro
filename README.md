@@ -1,4 +1,3 @@
-// README.md
 # YouTube Playlist Pro
 
 A modern web application that extracts comprehensive data from YouTube playlists, including video descriptions, thumbnails, upload dates, keywords, and more.

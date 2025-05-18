@@ -1,4 +1,3 @@
-// App.jsx
 import { useState, useEffect, useRef } from 'react';
 import axios from 'axios';
 import anime from 'animejs/lib/anime.es.js';

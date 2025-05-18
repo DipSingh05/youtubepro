@@ -1,4 +1,3 @@
-// components/VideoCard.jsx
 import React, { useRef, useEffect } from 'react';
 import { FaEye, FaClock, FaCalendarAlt } from 'react-icons/fa';
 import anime from 'animejs/lib/anime.es.js';
